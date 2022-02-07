@@ -10,3 +10,6 @@ Hello World
 
 *italicized*
 
+[subrayar]
+[**negra raya**]
+[*italicized raya*]
