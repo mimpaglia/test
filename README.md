@@ -5,3 +5,8 @@ Hello World
 ## This is a subsection
 
 **ahora es negrita**
+
+***italized negra***
+
+*italicized*
+
